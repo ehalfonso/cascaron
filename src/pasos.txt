@@ -1,0 +1,6 @@
+Crear interfaz
+
+Estudiar el useNavigate
+use location
+useContext
+Subir
